@@ -74,3 +74,8 @@ docs/docs.go
 docs/swagger.json
 docs/swagger.yaml
 docs/swagger.conf
+
+# BMAD method artifacts
+_bmad/
+_bmad-output/
+.cursor/skills/
